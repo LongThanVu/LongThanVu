@@ -72,7 +72,3 @@
   &nbsp;&nbsp;
   📧 <b>nhatlongst79@gmail.com</b>
 </p>
-
-<p align="center">
-  <i>"Build models that understand, not just predict."</i>
-</p>
